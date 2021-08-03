@@ -348,7 +348,7 @@ export default {
         },
         title: "Not A Timeshare",
         text:
-          "We acquire a beautiful home and bring up the furnishings to the Beso standard. We fractionalize the home ownership into 8 shares and offer those shares for the price we purchased it plus a transparent acquisition and design fee. Up to 8 co-owners purchase shares for real 100% co-ownership of the property. After a 12 month holding period, your share can be sold on the open market just like if you owned the whole home. Scheduling is done through our home owner app, so all you do is enjoy your home during your stays.",
+          "With Beso, you own a home, not days of time. You can enjoy your home any day of the year. Just reserve your stay through our proprietary app that creates fair and equitable scheduling between owners. Your life situation changes? Simply sell your home with local real estate agents. Best of all, you set your own price, just as if you owned the entire home!",
       },
       {
         ImgProps: {
