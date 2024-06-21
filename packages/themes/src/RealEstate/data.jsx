@@ -346,9 +346,18 @@ export default {
           src: exterior1,
           srcSet: `${exterior1} 1x, ${exterior12x} 2x`,
         },
+        title: "Not A Timeshare",
+        text:
+          "With Beso, you own a home, not days of time. You can enjoy your home any day of the year. Just reserve your stay through our proprietary app that creates fair and equitable scheduling between owners. Your life situation changes? Simply sell your home with local real estate agents. Best of all, you set your own price, just as if you owned the entire home!",
+      },
+      {
+        ImgProps: {
+          src: exterior1,
+          srcSet: `${exterior1} 1x, ${exterior12x} 2x`,
+        },
         title: "How Ownership Works",
         text:
-          "We bring together like-minded owners to co-own a beautiful second home. We set-up an LLC which owns the home. Up to 8-Co-owners purchase shares in the LLC for real underlying co-ownership of the property. Beso then handles all upkeep, maintance, and the usual headaches. Scheduling is done through our home owner app, so all you do is enjoy your home during your stays.",
+          "We acquire a beautiful home and bring up the furnishings to the Beso standard. We fractionalize the home ownership into 8 shares and offer those shares for the price we purchased it plus a transparent acquisition and design fee. Up to 8 co-owners purchase shares for real 100% co-ownership of the property. After a 12 month holding period, your share can be sold on the open market just like if you owned the whole home. Scheduling is done through our home owner app, so all you do is enjoy your home during your stays.",
       },
       {
         ImgProps: {
@@ -357,7 +366,25 @@ export default {
         },
         title: "Kiss Ownership Headaches Goodbye!",
         text:
-          "Beso handles coordination of all maintenance, cleaning, and furnishing. When you purchase shares in a Beso home, you get access to our owner app where you can schedule your stays and see everything you need to know about your home. There are costs associated with owning a second home, such as taxes, cleaning, maintenance. Beso passes those costs on directly to the owners with zero mark-up. As an owner, you get access to as much (or as little) detail about your home as you want.",
+          "Beso handles coordination of all maintenance, cleaning, and furnishing. When you purchase shares in a Beso home, you get access to our owner app where you can schedule your stays and see everything you need to know about your home. There are costs associated with owning a second home, such as taxes, cleaning, maintenance. Beso passes those costs on directly to the owners with zero mark-up. As an owner, you get access to as much (or as little) detail about your home as you want. Beso only charges a $99 monthly platform fee for handling all aspects of the home.",
+      },
+      {
+        ImgProps: {
+          src: exterior2,
+          srcSet: `${exterior2} 1x, ${exterior22x} 2x`,
+        },
+        title: "Second Home Ownership that Just Makes Sense!",
+        text:
+          "Why own 100% of a second home you use less than 6 weeks a year? You handle 100% of the hassles and costs for 12% of the benefit. The other 88% of the time, the home is either sitting vacant with problems like water leaks or you have renters tearing up the place. Problems and damage just waiting for you to discover when you show up with your guests on those few weeks you actually get to enjoy it. Handle 0% of the Hassle and pay for 12% of the home for 12% of the benefit! It only makes sense!",
+      },
+      {
+        ImgProps: {
+          src: exterior2,
+          srcSet: `${exterior2} 1x, ${exterior22x} 2x`,
+        },
+        title: "Keep Your Second Home and Cash Out the Equity",
+        text:
+          "Only use your second home a few months of the year? If your home meets the Beso Standard, you can keep the share of the home that you are currently using, and we will help you cash out the rest. No need to give up those great memories because you just don’t use it enough anymore. You can cash out and keep your home! Maybe you want to own 8 Beso homes around the country for the same price you are paying for just one home!",
       },
     ],
   },
@@ -386,36 +413,9 @@ export default {
             srcSet: `${interior2} 1x, ${interior22x} 2x`,
           },
         ],
-        title: "Beso is Affordable",
+        title: "Upgrade Your Second Home",
         text:
-          "Rather than purchase 100% of an inferior home. You can purchase a percentage of a stunning home. INSERT TABLE SHOWCASING THIS BELOW.",
-      },
-      {
-        slides: [
-          {
-            src: interior1,
-            srcSet: `${interior1} 1x, ${interior12x} 2x`,
-          },
-          {
-            src: interior1,
-            srcSet: `${interior1} 1x, ${interior12x} 2x`,
-          },
-          {
-            src: interior1,
-            srcSet: `${interior1} 1x, ${interior12x} 2x`,
-          },
-          {
-            src: interior1,
-            srcSet: `${interior1} 1x, ${interior12x} 2x`,
-          },
-          {
-            src: interior1,
-            srcSet: `${interior1} 1x, ${interior12x} 2x`,
-          },
-        ],
-        title: "Beso Is Simple",
-        text:
-          "Beso's owner's app is designed to be extremely simple to use. Scheduling, home reports, payments: it's all done right from the app! Beso provides a concierge service to all home owners to handle questions and concerns.",
+          "What makes more sense? 100% Hassle 100% Costs 12% Benefit (Show $700k Home)",
       },
     ],
   },
@@ -426,9 +426,9 @@ export default {
           src: surrounding1,
           srcSet: `${surrounding1} 1x, ${surrounding12x} 2x`,
         },
-        title: "Beso Protection",
+        title: "Beso Is Simple",
         text:
-          "Through the limited liability company, Beso protects all owners from any legal liability. ADD RELEVANT IMAGE.",
+          "Beso's owner's app is designed to be extremely simple to use. Scheduling, home reports, payments: it's all done right from the app! Beso provides a concierge service to all home owners to handle questions and concerns.",
         cta: {
           as: "a",
           label: "Learn more",
@@ -437,12 +437,12 @@ export default {
       },
       {
         ImgProps: {
-          src: surrounding2,
-          srcSet: `${surrounding2} 1x, ${surrounding22x} 2x`,
+          src: surrounding1,
+          srcSet: `${surrounding1} 1x, ${surrounding12x} 2x`,
         },
-        title: "Not A Timeshare",
+        title: "Beso Protection",
         text:
-          "With Beso, you own a home, not days of time. You book your stays throughout the year. Your life situation channges? You simply sell your shares in partnership with local real estate agents. Best of all, you set your own price, just as if you owned the entire home!",
+          "We said no hassle! Beso protects the co-owners if an owner defaults. If one of the homeowners stops paying, Beso will seamlessly step in and pay their share until the default is correct. If needed, Beso will foreclose on the defaulted share and resell it on the open market. This is the Beso assurance program included with our services.",
         cta: {
           as: "a",
           label: "Learn more",
